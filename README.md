@@ -1,4 +1,13 @@
-## Hi there 👋
+## Bienvenidos a todos :cat:
+Soy una estudiante en la carrera de computacion interesada en participar en proyectos centrados en desarrollo web..
+
+Algunos detalles intersantes sobre mi!
+- :tada: Estoy trabajando en un curso de JavaScript de Udemy.
+- :office: Actualmente estoy trabajando en hospital brindando soporte a la aplicacion del sistema.
+- 👯 Estoy buscando colaborar en proyectos que sumen en mi experiencia
+- :mag: Conocimientos en VisualFoxPro, Java, Python
+
+
 
 <!--
 **melanieeleon/melanieeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
