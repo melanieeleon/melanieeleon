@@ -1,7 +1,8 @@
-## Bienvenidos a todos :cat:
+## Bienvenidxs a todxs :cat:
 Soy una estudiante en la carrera de computacion interesada en participar en proyectos centrados en desarrollo web..
 
 Algunos detalles intersantes sobre mi!
+- 😄 Pronouns: she/her.
 - :tada: Estoy trabajando en un curso de JavaScript de Udemy.
 - :office: Actualmente estoy trabajando en hospital brindando soporte a la aplicacion del sistema.
 - 👯 Estoy buscando colaborar en proyectos que sumen en mi experiencia
