@@ -1,4 +1,4 @@
-## Welcome to my GitHub Profile! :cat:
+## Welcome to my GitHub Profile!
 Hi I'm Melanie Leon🌟, I'm a computer science engineer student. I enjoy creating projects that make an impact, whether it's building innovative web applications, exploring data science, or designing user-friendly interfaces. Im still learning so I hope you can join me in this journey🚀!.
 
 ## 🛠️ Technologies & Tools 🛠️
