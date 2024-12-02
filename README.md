@@ -1,8 +1,7 @@
 ## Welcome to my GitHub Profile! :cat:
 Hi I'm Melanie Leon🌟, I'm a computer science engineer student. I enjoy creating projects that make an impact, whether it's building innovative web applications, exploring data science, or designing user-friendly interfaces. Im still learning so I hope you can join me in this journey🚀!.
 
---
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools 🛠️
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -13,11 +12,10 @@ Hi I'm Melanie Leon🌟, I'm a computer science engineer student. I enjoy creati
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
---
-## ⚙️ Currently Learning
+## ⚙️ Currently Learning ⚙️
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
---
+
 ## 📊 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melanieeleon&show_icons=true&theme=radical)
 
