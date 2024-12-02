@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Profile!
-Hi I'm Melanie Leon🌟, I'm a computer science engineer student. I enjoy creating projects that make an impact, whether it's building innovative web applications, exploring data science, or designing user-friendly interfaces. Im still learning so I hope you can join me in this journey🚀!
+Hi, I'm Melanie Leon 🌟. I'm a computer science engineering student, and I enjoy creating projects that make an impact, whether it's building innovative web applications, exploring data science, or designing user-friendly interfaces. I'm still learning, and I hope you can join me on this journey 🚀!
 
 ## 🛠️ Technologies & Tools 🛠️
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
